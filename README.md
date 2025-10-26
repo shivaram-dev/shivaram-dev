@@ -37,10 +37,6 @@ I'm a Computer Science Engineering graduate from Matrusri Engineering College, H
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-dev&theme=radical&hide=glsl,python" />
 </a>
 
-## 💼 What I'm Looking For
-
-I'm actively seeking opportunities as a Full Stack Developer where I can apply my skills in building scalable web applications and contribute to meaningful projects. I'm eager to learn, collaborate, and grow with a team that values innovation and quality.
-
 ## 📫 Let's Connect
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about web development!
