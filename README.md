@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm a Computer Science Engineering graduate from Matrusri Engineering College, Hyderabad, passionate about building modern web applications and exploring new technologies. Currently, I'm actively seeking opportunities to contribute my skills and grow as a developer.
+- Computer Science Engineering graduate from **Matrusri Engineering College, Hyderabad**. 
+- Passionate about building modern web applications and exploring new technologies. 
+- Currently, I'm actively seeking opportunities to contribute my skills and grow as a developer.
 
 ## 🚀 Tech Stack
 
