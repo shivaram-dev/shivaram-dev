@@ -37,7 +37,7 @@
 ---
 <br />
 <a href="https://github.com/shivaram-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-dev&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-dev&layout=compact&theme=radical&hide=glsl,python" />
 </a>
 
 ## 📫 Let's Connect
