@@ -6,9 +6,13 @@
 - Passionate about building modern web applications and exploring new technologies. 
 - Currently, I'm actively seeking opportunities to contribute my skills and grow as a developer.
 
-## 🚀 Tech Stack
 
-### Frontend & Backend
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,reactrouter,redux,reactquery,zustand,nodejs,expressjs,mongodb,mongoose,postgresql,prisma,drizzle,jwt,nextjs,python,java,c,vite,git,github,vscode,figma,markdown,vercel&theme=dark&titles=true)]()
+
+<!-- ### Frontend & Backend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -20,23 +24,23 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) -->
 
 
-### Database
+<!-- ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=flat-square&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) -->
 
-### Tools
+<!-- ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=vscode&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=vscode&logoColor=white)  -->
 
  
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br />
 <br />
 <a href="https://github.com/shivaram-dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-dev&layout=compact&theme=radical&hide=glsl,python" />
@@ -44,13 +48,6 @@
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you'd like to collaborate on a project or just want to chat about web development!
-<br />
-
 <a href="https://www.linkedin.com/in/shivaram-dev/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="40" /></a>
 <a href="https://x.com/shivaram_dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="40" /></a>
 <a href="https://www.instagram.com/shivaram.dev/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="40" /></a>
-
----
-
-⭐️ From [Shivaram Prasad](https://github.com/shivaramprasad)
