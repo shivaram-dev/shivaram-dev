@@ -2,15 +2,17 @@
 
 ## About Me
 
-- Computer Science Engineering graduate from **Matrusri Engineering College, Hyderabad**. 
-- Passionate about building modern web applications and exploring new technologies. 
-- Currently, I'm actively seeking opportunities to contribute my skills and grow as a developer.
+👉 [View my portfolio](https://portfolio-eight-virid-74.vercel.app/)
+
+🎓 Computer Science Engineering graduate from **Matrusri Engineering College, Hyderabad**.
+
+👀 Currently, I'm actively seeking opportunities to contribute my skills and grow as a developer.
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,reactrouter,redux,reactquery,zustand,nodejs,expressjs,mongodb,mongoose,postgresql,prisma,drizzle,jwt,nextjs,python,java,c,vite,git,github,vscode,figma,markdown,vercel&theme=dark&titles=true)]()
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,reactrouter,redux,nodejs,expressjs,mongodb,mongoose,postgresql,jwt,nextjs,python,java,c,vite,git,github,vscode,figma,markdown,vercel&theme=dark&titles=true)]()
 
 <!-- ### Frontend & Backend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
